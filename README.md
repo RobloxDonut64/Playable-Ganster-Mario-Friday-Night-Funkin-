@@ -1,7 +1,7 @@
-# Playable-Ganster-Mario-Friday-Night-Funkin-
+# The-Mario
 
 
-Welp, this is my first mod for Friday Night Funkin. All this does is replace the boyfriend with Ganster Mario by SilvaGunner.
+Welp, this is my first mod for Friday Night Funkin. All this does is replace the boyfriend with Rapper Mario by SiIvaGunner.
 
 KEEP IN MIND:
 
